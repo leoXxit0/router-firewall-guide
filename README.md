@@ -30,4 +30,22 @@ Para esta guía usamos como ejemplo un Fios Router de Verizon, el router que la 
 For this guide, we use as an example a Verizon Fios Router, the router that the fiber optic company itself provides integrated with the service (combines ONT modem + router + firewall in a single device). This type of router is representative of most current ISP equipment (Movistar, Claro, AT&T, etc.): they all expose a web panel with very similar sections: General, Access Control, Port Forwarding, Port Triggering, DMZ Host, Remote Administration, Static NAT, and Security Log.
 
 
+### 📄 Continue reading...
+
+📎 [Descargar Guia en Español (.pdf)](./guia-español.pdf)
+
+📎 [Download guide in English (.pdf)](./guide-english.pdf)  
+
+---
+
+## 📬 Contacto
+
+📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
+
+
+
+
+
+
+
 
