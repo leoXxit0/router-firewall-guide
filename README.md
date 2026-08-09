@@ -12,6 +12,8 @@ No necesitas un laboratorio caro para aprender firewalls de verdad: el router qu
 ## Why start here
 You don't need an expensive lab to really learn firewalls: the router your fiber optic provider gave you already has one built-in (Stateful type). Understanding its options is the first real step toward pfSense, Cisco ASA, or any enterprise NGFW: the logic —incoming vs. outgoing traffic, ports, NAT— is the same.
 
+![firewall-interfaz](./Guia1.png)
+
 ---
 # 🔐 ¿Qué es un firewall?
 Un firewall (o cortafuegos) es un sistema de seguridad —de hardware, de software, o ambos— diseñado para controlar y monitorear el tráfico de red entrante y saliente. Su función principal es actuar como una barrera de protección entre una red interna segura (tu casa, tu laboratorio, la oficina) y redes externas no confiables, como Internet. Bloquea accesos no autorizados, malware y ciberataques, mientras permite pasar el tráfico legítimo.
