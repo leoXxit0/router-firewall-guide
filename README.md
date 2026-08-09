@@ -2,31 +2,29 @@
 ## Practical Firewall Guide for Cybersecurity Students (Router Version)
 
 ---
-
 <!-- BILINGUAL BADGES / BADGES BILINGÜES -->
 ![Español](https://img.shields.io/badge/Idioma-Español-red)
 ![English](https://img.shields.io/badge/Language-English-blue)
 
-# 📖 What will you learn?
+---
+# 💡 Por qué empezar aquí
+No necesitas un laboratorio caro para aprender firewalls de verdad: el router que tu proveedor de fibra óptica te dio ya trae uno integrado (tipo Stateful). Entender sus opciones es el primer paso real hacia pfSense, Cisco ASA o cualquier NGFW empresarial: la lógica —tráfico entrante vs. saliente, puertos, NAT— es la misma.
 
-This guide will teach you how to **configure and understand your home router's firewall** as if it were an enterprise-grade device. You don't need to buy anything or set up expensive labs. Just your fiber optic router and a browser.
+# 💡 Why start here
+You don't need an expensive lab to really learn firewalls: the router your fiber optic provider gave you already has one built-in (Stateful type). Understanding its options is the first real step toward pfSense, Cisco ASA, or any enterprise NGFW: the logic —incoming vs. outgoing traffic, ports, NAT— is the same.
 
-**By the end, you will know:**
-- ✅ What a firewall is and how it really works
-- ✅ How to configure security levels (Inbound/Outbound)
-- ✅ How to open ports safely (Port Forwarding vs Port Triggering)
-- ✅ Which configurations put you at risk
-- ✅ How to apply hardening to your own network in 10 minutes
-- ✅ How to think like an attacker to defend better
+---
+# ¿Qué es un firewall?
+Un firewall (o cortafuegos) es un sistema de seguridad —de hardware, de software, o ambos— diseñado para controlar y monitorear el tráfico de red entrante y saliente. Su función principal es actuar como una barrera de protección entre una red interna segura (tu casa, tu laboratorio, la oficina) y redes externas no confiables, como Internet. Bloquea accesos no autorizados, malware y ciberataques, mientras permite pasar el tráfico legítimo.
 
-### 🎯 Who is this guide for?
+# What is a firewall?
+A firewall is a security system—hardware, software, or both—designed to control and monitor incoming and outgoing network traffic. Its main function is to act as a protective barrier between a secure internal network (your home, your laboratory, the office) and untrusted external networks, such as the Internet. Blocks unauthorized access, malware and cyber attacks, while allowing legitimate traffic to pass through.
 
-| If this sounds like you... | This guide is for you |
-|----------------------------|----------------------|
-| You're a networking or cybersecurity student | ✅ Yes |
-| You've heard of firewalls but don't know where to start | ✅ Yes |
-| You want to practice with something real, not just theory | ✅ Yes |
-| You're afraid to touch your router in case you "break it" | ✅ Yes (we'll guide you step by step) |
-| You already know about firewalls but want a practical approach | ✅ Yes (there's always something new to learn) |
-| You're looking for quality content | ✅ Yes |
+---
+
+
+
+
+
+
 
