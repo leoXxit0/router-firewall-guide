@@ -7,9 +7,7 @@
 ![Español](https://img.shields.io/badge/Idioma-Español-red)
 ![English](https://img.shields.io/badge/Language-English-blue)
 
-> *"The best firewall to learn with is the one you already have at home"*
-
-### 📖 What will you learn?
+# 📖 What will you learn?
 
 This guide will teach you how to **configure and understand your home router's firewall** as if it were an enterprise-grade device. You don't need to buy anything or set up expensive labs. Just your fiber optic router and a browser.
 
