@@ -1,31 +1,11 @@
-# 🔥 From Router to pfSense
-## Practical Firewall Guide for Cybersecurity Students
+# 🔥 Guía práctica de firewalls para estudiantes 
+## Practical Firewall Guide for Cybersecurity Students (Router Version)
 
 ---
 
 <!-- BILINGUAL BADGES / BADGES BILINGÜES -->
-[![GitHub stars](https://img.shields.io/github/stars/tuusuario/from-router-to-pfsense.svg)](https://github.com/tuusuario/from-router-to-pfsense/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ![Español](https://img.shields.io/badge/Idioma-Español-red)
 ![English](https://img.shields.io/badge/Language-English-blue)
-
----
-
-<!-- MAIN TITLE / TÍTULO PRINCIPAL -->
-# 🇪🇸 De tu router de casa a pfSense
-## Guía práctica de firewalls para estudiantes de ciberseguridad
-
-> *"El mejor firewall para aprender es el que ya tienes en casa"*
-
----
-
-<!-- ENGLISH VERSION / VERSIÓN EN INGLÉS -->
-<details>
-<summary><b>🇬🇧 English version</b></summary>
-
-# 🇬🇧 From Your Home Router to pfSense
-## Practical Firewall Guide for Cybersecurity Students
 
 > *"The best firewall to learn with is the one you already have at home"*
 
@@ -52,12 +32,3 @@ This guide will teach you how to **configure and understand your home router's f
 | You already know about firewalls but want a practical approach | ✅ Yes (there's always something new to learn) |
 | You're looking for quality content | ✅ Yes |
 
-### 🚀 Quick Start
-
-#### 1. Access your router's admin panel
-
-```bash
-# Open your browser and type:
-http://192.168.1.1        # Verizon Fios Router
-http://192.168.0.1        # Movistar, TP-Link, etc.
-http://10.0.0.1           # Claro, some ISPs
