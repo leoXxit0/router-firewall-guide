@@ -15,7 +15,7 @@ You don't need an expensive lab to really learn firewalls: the router your fiber
 ![firewall-interfaz](./Guia1.png)
 
 ---
-# 🔐 ¿Qué es un firewall?
+# ¿Qué es un firewall?
 Un firewall (o cortafuegos) es un sistema de seguridad —de hardware, de software, o ambos— diseñado para controlar y monitorear el tráfico de red entrante y saliente. Su función principal es actuar como una barrera de protección entre una red interna segura (tu casa, tu laboratorio, la oficina) y redes externas no confiables, como Internet. Bloquea accesos no autorizados, malware y ciberataques, mientras permite pasar el tráfico legítimo.
 
 ## What is a firewall?
