@@ -6,7 +6,7 @@
 ![English](https://img.shields.io/badge/Language-English-blue)
 
 ---
-# 💡 Por qué empezar aquí
+# Por qué empezar aquí
 No necesitas un laboratorio caro para aprender firewalls de verdad: el router que tu proveedor de fibra óptica te dio ya trae uno integrado (tipo Stateful). Entender sus opciones es el primer paso real hacia pfSense, Cisco ASA o cualquier NGFW empresarial: la lógica —tráfico entrante vs. saliente, puertos, NAT— es la misma.
 
 ## Why start here
@@ -23,7 +23,7 @@ A firewall is a security system—hardware, software, or both—designed to cont
 
 ---
 
-# 💻 El equipo de estudio: un router de fibra óptica
+# El equipo de estudio: un router de fibra óptica
 Para esta guía usamos como ejemplo un Fios Router de Verizon, el router que la propia compañía de fibra óptica entrega integrado con el servicio (combina módem ONT + router + firewall en un solo equipo). Este tipo de router es representativo de la mayoría de equipos ISP actuales (Movistar, Claro, AT&T, etc.): todos exponen un panel web con secciones muy similares: General, Access Control, Port Forwarding, Port Triggering, DMZ Host, Remote Administration, Static NAT y Security Log.
 
 ## The study equipment: a fiber-optic router
@@ -37,15 +37,18 @@ For this guide, we use as an example a Verizon Fios Router, the router that the 
 📎 [Download guide in English (.pdf)](./guide-english.pdf)  
 
 ---
+## ⭐ Apoya el Proyecto
+
+Si este proyecto te ha sido útil, considera:
+
+- Darle una ⭐ en GitHub
+- Compartirlo con otros desarrolladores
+- Reportar issues o sugerir mejoras
+
+---
 
 ## 📬 Contacto
 
 📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
-
-
-
-
-
-
 
 
